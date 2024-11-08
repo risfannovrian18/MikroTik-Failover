@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Page-1" id="OuSy_g38rZJyQtqMkuJW">
-    <mxGraphModel dx="1049" dy="543" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1391" dy="543" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,6 +21,18 @@
             <mxPoint x="304" y="376" as="sourcePoint" />
             <mxPoint x="512" y="376" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="haPhFj_78UaTAYVCH23A-7" value="ICMP Echo Request" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="303" width="136" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="haPhFj_78UaTAYVCH23A-8" value="ICMP Echo Reply" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="378" width="136" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="haPhFj_78UaTAYVCH23A-9" value="Host/Client" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="221" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="haPhFj_78UaTAYVCH23A-10" value="Server" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="541" y="392" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
